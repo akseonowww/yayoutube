@@ -2,6 +2,8 @@
 
 YouTube с автопереводом Яндекса.
 
+Платформа: Android 
+
 **Расширения:**
 ```
 chrome://extensions/
