@@ -1,2 +1,3 @@
-# yyoutube
-YouTube with auto translate of Yandex. Android app.
+# YouTube Nice
+
+YouTube с автопереводом Яндекса.
