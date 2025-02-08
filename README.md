@@ -1,6 +1,6 @@
-# YouTube Nice
+# YaYouTube
 
-YouTube с автопереводом Яндекса.
+YouTube с голосовым переводом от Яндекса.
 
 Платформа: Android 
 
