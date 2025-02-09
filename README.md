@@ -1,7 +1,6 @@
-<div style="display: flex; gap: 12px; justify-content: center;">
-   <img src="./logos/yayoutube/xxxhdpi/app_icon.png" height="40px"/>
-   <h1>YaYouTube</h1>
-</div>
+<img alt="Next.js logo" src="./logos/yayoutube/xxxhdpi/app_icon.png" height="64">
+
+# YaYouTube
 
 **Идея**: YouTube с голосовым переводчиком от Яндекса на основе браузера.
 
