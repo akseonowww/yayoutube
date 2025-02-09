@@ -1,74 +1,75 @@
-<img src="./logos/yayoutube/xxxhdpi/app_icon.png" height="40px" />
+<div style="display: flex; gap: 12px; justify-content: center;">
+   <img src="./logos/yayoutube/xxxhdpi/app_icon.png" height="40px"/>
+   <h1>YaYouTube</h1>
+</div>
 
-# YaYouTube   
-  
-**Идея**: YouTube с голосовым переводчиком от Яндекса на основе браузера. 
+**Идея**: YouTube с голосовым переводчиком от Яндекса на основе браузера.
 
 В модах я новичек и поэтому веду логи по прогам — [тык](./Logs.md).
-  
-## Яндекс Браузер  
-  
-Используется версия  
-  
-**Информация:**  
-  
-```  
-chrome://version/  
-```  
-  
-**Расширения:**  
-  
-```  
-chrome://extensions/  
-```  
-  
-```  
-chrome://apps/  
-```  
-  
-**Настройки SponsorBlock:**  
-  
-```  
-chrome-extension://mnjggcdmjocbbbhaepdhchncahnbgone/options/options.html  
-```  
-  
-## Расширения  
-  
-**SponsorBlock**  
-  
-```  
-mnjggcdmjocbbbhaepdhchncahnbgone  
-```  
-  
-[Скачать](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)  
-  
-**Return YouTube Dislike**  
-  
-```  
-gebbhagfogifgggkldgodflihgfeippi  
-```  
-  
-[Скачать](https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)  
-  
-**User JavaScript and CSS**  
-  
-```  
-nbhcbdghjpllgmfilhnhkllmkecfmpld  
-```  
-  
-[Скачать](https://chromewebstore.google.com/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)  
-  
-## Разработка 
-  
-### 1. Закреплённые ссылки  
-  
-Для практики решил попробовать сначала заменить закрепленные ссылки на домашней странице.  
+
+## Яндекс Браузер
+
+Используется версия
+
+**Информация:**
+
+```
+chrome://version/
+```
+
+**Расширения:**
+
+```
+chrome://extensions/
+```
+
+```
+chrome://apps/
+```
+
+**Настройки SponsorBlock:**
+
+```
+chrome-extension://mnjggcdmjocbbbhaepdhchncahnbgone/options/options.html
+```
+
+## Расширения
+
+**SponsorBlock**
+
+```
+mnjggcdmjocbbbhaepdhchncahnbgone
+```
+
+[Скачать](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
+
+**Return YouTube Dislike**
+
+```
+gebbhagfogifgggkldgodflihgfeippi
+```
+
+[Скачать](https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)
+
+**User JavaScript and CSS**
+
+```
+nbhcbdghjpllgmfilhnhkllmkecfmpld
+```
+
+[Скачать](https://chromewebstore.google.com/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)
+
+## Разработка
+
+### 1. Закреплённые ссылки
+
+Для практики решил попробовать сначала заменить закрепленные ссылки на домашней странице.
 
 При вставке кода XML нужно уменьшить до одной строки — [тык](https://formatter.org/xml-formatter).
-  
+
 1.1. res/values/**array.xml**
 
-- bro_default_dashboard_urls_russia
+-  bro_default_dashboard_urls_russia
 
 ```xml
 <string-array name="bro_default_dashboard_urls_russia">
@@ -92,7 +93,7 @@ nbhcbdghjpllgmfilhnhkllmkecfmpld
 </string-array>
 ```
 
-- bro_default_dashboard_titles_russia
+-  bro_default_dashboard_titles_russia
 
 ```xml
 <string-array name="bro_default_dashboard_titles_russia">
@@ -116,11 +117,11 @@ nbhcbdghjpllgmfilhnhkllmkecfmpld
 </string-array>
 ```
 
------
+---
 
 1.2 res/values-sw600dp/**array.xml**
 
-- bro_default_dashboard_urls_russia
+-  bro_default_dashboard_urls_russia
 
 ```xml
 <string-array name="bro_default_dashboard_urls_russia">
@@ -142,7 +143,7 @@ nbhcbdghjpllgmfilhnhkllmkecfmpld
    <item>https://m.youtube.com</item></string-array>
 ```
 
-- bro_default_dashboard_titles_russia
+-  bro_default_dashboard_titles_russia
 
 ```xml
 <string-array name="bro_default_dashboard_titles_russia">
@@ -163,4 +164,24 @@ nbhcbdghjpllgmfilhnhkllmkecfmpld
    <item>Расширения</item>
    <item>YouTube</item>
 </string-array>
+```
+
+### 2. Расширения
+
+2.1. Место хранения расширения SponsorBlock
+
+2.1.1. Windows
+
+-  Исходный код
+
+```
+C:\Users\Имя пользователя\AppData\Local\Yandex\YandexBrowser\User Data\Default\
+   Extensions\mnjggcdmjocbbbhaepdhchncahnbgone
+```
+
+-  Локальные настройки
+
+```
+C:\Users\Имя пользователя\AppData\Local\Yandex\YandexBrowser\User Data\Default\
+   Local Extension Settings\mnjggcdmjocbbbhaepdhchncahnbgone
 ```
