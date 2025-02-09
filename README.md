@@ -184,3 +184,28 @@ C:\Users\Имя пользователя\AppData\Local\Yandex\YandexBrowser\User
 C:\Users\Имя пользователя\AppData\Local\Yandex\YandexBrowser\User Data\Default\
    Local Extension Settings\mnjggcdmjocbbbhaepdhchncahnbgone
 ```
+
+2.1.2. Android
+
+-  Исходный код
+
+```
+0/com.yandex.browser/app_chromium/Default/
+   Extensions/mnjggcdmjocbbbhaepdhchncahnbgone
+```
+
+-  Локальные настройки
+
+```
+0/com.yandex.browser/app_chromium/Default/
+   Local Extension Settings/mnjggcdmjocbbbhaepdhchncahnbgone
+```
+
+-  Синхронизированные настройки
+
+Зачем? Расширения не синхронизируются на Андройде, тем более настройки.
+
+```
+0/com.yandex.browser/app_chromium/Default/
+   Sync Extenstion Settings/mnjggcdmjocbbbhaepdhchncahnbgone
+```
