@@ -8,7 +8,9 @@
 
 ## Яндекс Браузер
 
-Используется версия
+[Yandex Original](https://disk.yandex.ru/d/jzTooOeck-lDfA)
+ 
+[YaYouTube 0.0.1](https://disk.yandex.ru/d/C-hUFwMcs3F7MA)
 
 **Информация:**
 
