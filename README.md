@@ -116,8 +116,6 @@ nbhcbdghjpllgmfilhnhkllmkecfmpld
 </string-array>
 ```
 
----
-
 1.2 res/values-sw600dp/**array.xml**
 
 -  bro_default_dashboard_urls_russia
@@ -190,14 +188,14 @@ C:\Users\Имя пользователя\AppData\Local\Yandex\YandexBrowser\User
 -  Исходный код
 
 ```
-0/com.yandex.browser/app_chromium/Default/
+data_mirror/data_ce/null/0/com.yandex.browser/app_chromium/Default/
    Extensions/mnjggcdmjocbbbhaepdhchncahnbgone
 ```
 
 -  Локальные настройки
 
 ```
-0/com.yandex.browser/app_chromium/Default/
+data_mirror/data_ce/null0/com.yandex.browser/app_chromium/Default/
    Local Extension Settings/mnjggcdmjocbbbhaepdhchncahnbgone
 ```
 
@@ -206,6 +204,6 @@ C:\Users\Имя пользователя\AppData\Local\Yandex\YandexBrowser\User
 Зачем? Расширения не синхронизируются на Андройде, тем более настройки.
 
 ```
-0/com.yandex.browser/app_chromium/Default/
+data_mirror/data_ce/null0/com.yandex.browser/app_chromium/Default/
    Sync Extenstion Settings/mnjggcdmjocbbbhaepdhchncahnbgone
 ```
