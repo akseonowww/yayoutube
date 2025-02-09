@@ -195,7 +195,7 @@ data_mirror/data_ce/null/0/com.yandex.browser/app_chromium/Default/
 -  Локальные настройки
 
 ```
-data_mirror/data_ce/null0/com.yandex.browser/app_chromium/Default/
+data_mirror/data_ce/null/0/com.yandex.browser/app_chromium/Default/
    Local Extension Settings/mnjggcdmjocbbbhaepdhchncahnbgone
 ```
 
@@ -204,6 +204,6 @@ data_mirror/data_ce/null0/com.yandex.browser/app_chromium/Default/
 Зачем? Расширения не синхронизируются на Андройде, тем более настройки.
 
 ```
-data_mirror/data_ce/null0/com.yandex.browser/app_chromium/Default/
+data_mirror/data_ce/null/0/com.yandex.browser/app_chromium/Default/
    Sync Extenstion Settings/mnjggcdmjocbbbhaepdhchncahnbgone
 ```
