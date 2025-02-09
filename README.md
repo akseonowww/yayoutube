@@ -1,10 +1,10 @@
-<img src="./logo/xxxhdpi/app_icon.png" height="40px" />
+<img src="./logos/yayoutube/xxxhdpi/app_icon.png" height="40px" />
 
 # YaYouTube   
   
 **Идея**: YouTube с голосовым переводчиком от Яндекса на основе браузера. 
 
-Веду логи по прогам — [тык](./Logs.md).
+В модах я новичек и поэтому веду логи по прогам — [тык](./Logs.md).
   
 ## Яндекс Браузер  
   
