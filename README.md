@@ -8,9 +8,9 @@
 
 ## Яндекс Браузер
 
-[com.yandex.browser_24.12.5.31_rs.apk](https://disk.yandex.ru/d/jzTooOeck-lDfA)
+[Yandex Browser 24.12.5.31](https://disk.yandex.ru/d/jzTooOeck-lDfA)
  
-[YaYouTube — 0.0.1](https://disk.yandex.ru/d/C-hUFwMcs3F7MA)
+[YaYouTube 0.0.0.1](https://disk.yandex.ru/d/C-hUFwMcs3F7MA)
 
 **Информация:**
 
