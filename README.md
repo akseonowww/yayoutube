@@ -1,4 +1,4 @@
-<img alt="Next.js logo" src="./new_app_icon.png" height="64">
+<img alt="logo" src="./new_app_icon.png" height="64">
 
 # YaYouTube
 
@@ -20,7 +20,11 @@
 
 ## Яндекс Браузер
 
-[Yandex Browser 24.12.5.31](https://disk.yandex.ru/d/jzTooOeck-lDfA)
+Мод основан на [Yandex Browser 24.12.5.31](https://disk.yandex.ru/d/jzTooOeck-lDfA)
+
+> [!IMPORTANT]
+> <img alt="Постер" src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_660663b97965b12ccc5d0da9_6606655f0039520bbc1d8068/scale_2400">
+> Выбирайте самый удобный и безопастный браузер! [browser.yandex.ru/mobile](https://browser.yandex.ru/mobile)
 
 **Информация:**
 
@@ -76,7 +80,7 @@ nbhcbdghjpllgmfilhnhkllmkecfmpld
 
 Для практики решил попробовать сначала заменить закрепленные ссылки на домашней странице.
 
-При вставке кода XML нужно уменьшить до одной строки — [тык](https://formatter.org/xml-formatter).
+Сервис для уменьшения XML до одной строки — [тык](https://formatter.org/xml-formatter).
 
 1.1. res/values/**array.xml**
 
