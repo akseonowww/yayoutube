@@ -1,4 +1,4 @@
-<img alt="Next.js logo" src="./logos/yayoutube/xxxhdpi/app_icon.png" height="64">
+<img alt="Next.js logo" src="./new_app_icon.png" height="64">
 
 # YaYouTube
 
