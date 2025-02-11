@@ -1,4 +1,4 @@
-<img alt="logo" src="https://github.com/akseonowww/yayoutube/raw/main/new_app_icon.png" height="64">
+<img alt="logo" src="https://github.com/akseonowww/yayoutube/raw/main/app_icon.png" height="64">
 
 # YaYouTube
 
